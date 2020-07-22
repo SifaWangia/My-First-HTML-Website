@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First HTML Website | How I kickstarted my dream of coding in the midst of a global crisis</title>
+  <h1 title="My First HTML Website">My First HTML Website<br>How I kickstarted my dream of coding in the midst of a global crisis.
+  <h3>BY SIFA WANGIA<br>JULY 6, 2020
+</head>
+<body>
+  <p>As businesses and public places, like libraries and schools around the world began to close due to COVID-19, I had a lot of library books that I couldn't return, most importantly, the <em>Coding All-in-One for Dummies by Nikhil Abraham</em>. Because of the shutdown, libraries put a pause to accepting books, finally giving me the opportunity and time to study and begin reading through all 723 pages of the all-in-one coding guide for months instead of the short period of time one usually holds on to library books. It's because of that book that I was able to create my very first website using only HTML, which you are viewing right now. So you can also look at this website as the start to my coding career. Pretty exciting, right?</p>
+  <p>Below I've attached a picture of the <em>Coding All-in-One for Dummies</em> book I had from the library and a link to purchase it on Amazon.</p>
+  <p>Buy <em>Coding All-in-One for Dummies by Nikhil Abraham</em> by clicking <a href="https://www.amazon.com/Coding-All-One-Dummies-Computers/dp/1119363020/ref=sr_1_3?crid=2T9Q9JYZ64NXX&dchild=1&keywords=coding+all+in+one+for+dummies&qid=1594080240&sprefix=coding+all+in+one%2Caps%2C191&sr=8-3">here</a></p>
+  <br><img src="https://lh3.googleusercontent.com/-FAXO3x99KT0/XwO66jhgYMI/AAAAAAAAEtE/WmCp3AAGGGMAFlnFcDdfKYH5yuKGlyKcQCK8BGAsYHg/s512/2020-07-06.jpg">
+</body>
+</html>
